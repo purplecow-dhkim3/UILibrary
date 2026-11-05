@@ -19,7 +19,9 @@ Git·NAS·로컬 폴더의 Unity UI 리소스를 모아 보고, 목업 보드로
 - 목업 보드: 레퍼런스 칸과 목업 칸 나란히 보기, 레퍼런스 지우기, 넓게 보기
 - Claude로 목업: 패널에서 레퍼런스 고르기
 
-## 공용 소스 (0개)
-- 없음
+## 공용 소스 (3개)
+- **NAS · 11_PurpleCow** (NAS) — \\nas\Cookapps Project\11_PurpleCow
+- **GWPP012_Galaxy** (Git) — https://github.com/cookapps-devops/GWPP012_Galaxy.git @ develop
+- **PurpleCow_MadDucks** (Git) — https://github.com/cookapps-devops/PurpleCow_MadDucks.git
 
 _이 파일은 UI Library가 게시할 때 자동으로 만듭니다._

@@ -1,6 +1,43 @@
 {
   "format": "uilib-team/1",
-  "sources": [],
+  "sources": [
+    {
+      "id": "nas-purplecow",
+      "type": "nas",
+      "name": "NAS · 11_PurpleCow",
+      "path": "\\\\nas\\Cookapps Project\\11_PurpleCow",
+      "projectMode": "subfolder",
+      "include": [
+        "ForgeHero",
+        "Galactic Outlaw"
+      ],
+      "exclude": [
+        "z_Bak"
+      ]
+    },
+    {
+      "id": "git-0bec1fa5",
+      "type": "git",
+      "name": "GWPP012_Galaxy",
+      "url": "https://github.com/cookapps-devops/GWPP012_Galaxy.git",
+      "branch": "develop",
+      "projectMode": "fixed",
+      "project": "Galactic Outlaw",
+      "include": [],
+      "exclude": []
+    },
+    {
+      "id": "git-0af7c11c",
+      "type": "git",
+      "name": "PurpleCow_MadDucks",
+      "url": "https://github.com/cookapps-devops/PurpleCow_MadDucks.git",
+      "branch": "",
+      "projectMode": "fixed",
+      "project": "매드덕스",
+      "include": [],
+      "exclude": []
+    }
+  ],
   "app": {
     "version": "0.3.0",
     "notes": "첫 팀 배포\n- 팀 채널: 공용 소스(Git·NAS)가 자동으로 추가되고, 내 소스는 따로 추가\n- 켤 때 새 버전이 있으면 업데이트 창 → 눌러서 바로 업데이트\n- 소스 화면 정리(리소스 소스 · Unity · 팀 채널 · 설정), 상단 프로젝트 탭\n- 목업 보드: 레퍼런스 칸과 목업 칸 나란히 보기, 레퍼런스 지우기, 넓게 보기\n- Claude로 목업: 패널에서 레퍼런스 고르기",
@@ -8,5 +45,6 @@
     "sha256": "d570e6ed7dd77eb5965d83435644936444077e207c8900bf3abac22cb70dbadd",
     "size": 36026543,
     "publishedAt": "2026-11-05T03:38:56.464Z"
-  }
+  },
+  "sourcesPublishedAt": "2026-11-05T03:39:26.146Z"
 }
