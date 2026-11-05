@@ -3,21 +3,18 @@
 Git·NAS·로컬 폴더의 Unity UI 리소스를 모아 보고, 목업 보드로 UI를 구성하는 사내 도구입니다.
 
 ## 처음 설치
-1. [`bin/UILibrary.zip`](bin/UILibrary.zip) 를 받습니다 (GitHub 화면에서 파일을 열고 **Download raw file**).
+1. **[UILibrary.zip 받기](https://github.com/purplecow-dhkim3/UILibrary/raw/main/bin/UILibrary.zip)** (34MB)
 2. 압축을 풀어 `UILibrary.exe`를 원하는 폴더(예: `D:\UILibrary`)에 둡니다. 데이터는 exe 옆 `data\`·`cache\`에 생깁니다.
 3. 실행하면 이 리포의 **공용 소스**(Git·NAS)가 자동으로 추가되고, 내 소스도 따로 추가할 수 있습니다.
 
-새 버전이 올라오면 프로그램을 켤 때 업데이트 창이 뜹니다. git이 설치돼 있어야 하고, 이 리포를 읽을 수 있는 GitHub 계정으로 로그인돼 있어야 합니다.
+새 버전이 올라오면 프로그램을 켤 때 업데이트 창이 뜹니다. 업데이트·공용 소스 받기는 로그인 없이 됩니다. 공용 **Git** 소스의 이미지를 받으려면 그 리포를 볼 수 있는 GitHub 로그인과 git이, **NAS** 소스는 사내망이 필요합니다.
 
-## 최신 버전: 0.3.0
+## 최신 버전: 0.3.1
 게시: 2026-11-05
 
-첫 팀 배포
-- 팀 채널: 공용 소스(Git·NAS)가 자동으로 추가되고, 내 소스는 따로 추가
-- 켤 때 새 버전이 있으면 업데이트 창 → 눌러서 바로 업데이트
-- 소스 화면 정리(리소스 소스 · Unity · 팀 채널 · 설정), 상단 프로젝트 탭
-- 목업 보드: 레퍼런스 칸과 목업 칸 나란히 보기, 레퍼런스 지우기, 넓게 보기
-- Claude로 목업: 패널에서 레퍼런스 고르기
+- 공개 리포: 로그인·git 없이 업데이트와 공용 소스를 받습니다
+- 새 공용 소스가 들어오면 알림이 뜹니다
+- 게시 도구 release.cmd (관리자용)
 
 ## 공용 소스 (3개)
 - **NAS · 11_PurpleCow** (NAS) — \\nas\Cookapps Project\11_PurpleCow
