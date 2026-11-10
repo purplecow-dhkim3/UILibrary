@@ -55,6 +55,14 @@
       "learnedAt": "2026-11-05T08:06:09.222Z",
       "prefabs": 292,
       "publishedAt": "2026-11-05T08:06:14.814Z"
+    },
+    {
+      "project": "매드덕스",
+      "file": "profiles/매드덕스.json",
+      "sha256": "8f376a736fb839cf8fc83e56e1565dc23dff59e366f87f2b4e2312294e580cbc",
+      "learnedAt": "2026-11-10T09:11:27.169Z",
+      "prefabs": 187,
+      "publishedAt": "2026-11-10T09:29:25.892Z"
     }
   ]
 }
