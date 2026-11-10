@@ -39,12 +39,12 @@
     }
   ],
   "app": {
-    "version": "0.3.5",
-    "notes": "- 미분류 AI 판정도 Claude Code 구독으로 (API 호출·API 키 없음)\n- 모든 AI 기능은 이 PC의 Claude Code 구독 사용량으로만 돔 (API 키가 설정돼 있어도 쓰지 않음)\n- 설정의 \"Claude API 키\" 칸 제거",
+    "version": "0.3.6",
+    "notes": "- NAS에서 UILibrary.exe를 켜면 내 PC(%LOCALAPPDATA%\\UILibrary)에 자동 설치 + 바탕화면·시작 메뉴 바로가기 (NAS에는 아무것도 쓰지 않음)\n- 이미 설치돼 있으면 설치본을 켬 (NAS 것이 더 새것일 때만 덮어씀)",
     "file": "bin/UILibrary.zip",
-    "sha256": "69a4c17022e56c7fdecb91fd9b4ddbe8139efba40e9cdd74f61c8a1eed4dfc97",
-    "size": 35875009,
-    "publishedAt": "2026-11-05T09:33:53.568Z"
+    "sha256": "c797e580838145832d44d55d94b38c06d8a1a6a0dcbb8f7f87c46fe043872a88",
+    "size": 35876384,
+    "publishedAt": "2026-11-10T09:39:29.291Z"
   },
   "sourcesPublishedAt": "2026-11-05T03:39:26.146Z",
   "profiles": [
