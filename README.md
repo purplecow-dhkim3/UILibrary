@@ -15,9 +15,10 @@ Git·NAS·로컬 폴더의 Unity UI 리소스를 모아 보고, 목업 보드로
 - NAS에서 UILibrary.exe를 켜면 내 PC(%LOCALAPPDATA%\UILibrary)에 자동 설치 + 바탕화면·시작 메뉴 바로가기 (NAS에는 아무것도 쓰지 않음)
 - 이미 설치돼 있으면 설치본을 켬 (NAS 것이 더 새것일 때만 덮어씀)
 
-## 공용 소스 (3개)
+## 공용 소스 (4개)
 - **NAS · 11_PurpleCow** (NAS) — \\nas\Cookapps Project\11_PurpleCow
 - **GWPP012_Galaxy** (Git) — https://github.com/cookapps-devops/GWPP012_Galaxy.git @ develop
 - **PurpleCow_MadDucks** (Git) — https://github.com/cookapps-devops/PurpleCow_MadDucks.git
+- **PurpleCow_ForgeHero** (Git) — https://github.com/cookapps-devops/PurpleCow_ForgeHero.git
 
 _이 파일은 UI Library가 게시할 때 자동으로 만듭니다._
