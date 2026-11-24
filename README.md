@@ -9,11 +9,12 @@ Git·NAS·로컬 폴더의 Unity UI 리소스를 모아 보고, 목업 보드로
 
 새 버전이 올라오면 프로그램을 켤 때 업데이트 창이 뜹니다. 업데이트·공용 소스 받기는 로그인 없이 됩니다. 공용 **Git** 소스의 이미지를 받으려면 그 리포를 볼 수 있는 GitHub 로그인과 git이, **NAS** 소스는 사내망이 필요합니다.
 
-## 최신 버전: 0.3.6
-게시: 2026-11-10
+## 최신 버전: 0.3.7
+게시: 2026-11-24
 
-- NAS에서 UILibrary.exe를 켜면 내 PC(%LOCALAPPDATA%\UILibrary)에 자동 설치 + 바탕화면·시작 메뉴 바로가기 (NAS에는 아무것도 쓰지 않음)
-- 이미 설치돼 있으면 설치본을 켬 (NAS 것이 더 새것일 때만 덮어씀)
+- Claude Code에서 라이브러리 리소스를 바로 가져오는 MCP 도구 추가: get_item(원본 이미지·경로·9-slice·사용처), find_similar(비슷한 모양·색·상태 변형), export_items(이 PC 폴더로 PNG+.meta, 시트는 그 칸만), send_to_unity, search_prefabs, list_collections
+- 소스 > 설정에 [Claude Code에 연결] 버튼 (명령어 복사도 가능)
+- 설정 메뉴 이름을 "동기화 · 공유 파일"로 정리
 
 ## 공용 소스 (4개)
 - **NAS · 11_PurpleCow** (NAS) — \\nas\Cookapps Project\11_PurpleCow

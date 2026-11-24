@@ -50,12 +50,12 @@
     }
   ],
   "app": {
-    "version": "0.3.6",
-    "notes": "- NAS에서 UILibrary.exe를 켜면 내 PC(%LOCALAPPDATA%\\UILibrary)에 자동 설치 + 바탕화면·시작 메뉴 바로가기 (NAS에는 아무것도 쓰지 않음)\n- 이미 설치돼 있으면 설치본을 켬 (NAS 것이 더 새것일 때만 덮어씀)",
+    "version": "0.3.7",
+    "notes": "- Claude Code에서 라이브러리 리소스를 바로 가져오는 MCP 도구 추가: get_item(원본 이미지·경로·9-slice·사용처), find_similar(비슷한 모양·색·상태 변형), export_items(이 PC 폴더로 PNG+.meta, 시트는 그 칸만), send_to_unity, search_prefabs, list_collections\n- 소스 > 설정에 [Claude Code에 연결] 버튼 (명령어 복사도 가능)\n- 설정 메뉴 이름을 \"동기화 · 공유 파일\"로 정리",
     "file": "bin/UILibrary.zip",
-    "sha256": "c797e580838145832d44d55d94b38c06d8a1a6a0dcbb8f7f87c46fe043872a88",
-    "size": 35876384,
-    "publishedAt": "2026-11-10T09:39:29.291Z"
+    "sha256": "c7bbf5e55fb2cdae5fcb6d181eec23b3ce5f01a90166292eea283f80a94175df",
+    "size": 35879887,
+    "publishedAt": "2026-11-24T02:19:45.619Z"
   },
   "sourcesPublishedAt": "2026-11-10T09:53:36.462Z",
   "profiles": [
